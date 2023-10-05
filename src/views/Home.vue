@@ -1,7 +1,7 @@
 <template>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Est distinctio facilis, dolorem fugit esse aspernatur molestiae animi blanditiis atque ipsa, eum mollitia placeat qui asperiores nihil natus illum at reiciendis.
+  <HelloWorld />
 </template>
 
-<script setup>
-
+<script lang="ts" setup>
+  import HelloWorld from '@/components/HelloWorld.vue'
 </script>
