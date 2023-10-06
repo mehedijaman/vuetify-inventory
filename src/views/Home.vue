@@ -1,7 +1,7 @@
+<script setup>
+  import Dashboard from './Dashboard.vue'
+</script>
 <template>
-  <HelloWorld />
+  <Dashboard />
 </template>
 
-<script setup>
-  import HelloWorld from '@/components/HelloWorld.vue'
-</script>
